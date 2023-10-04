@@ -30,12 +30,36 @@ http://qiita.com<br>
 [qiita](http://qiita.com)<br>
 [qiita](http://qiita.com "qiita")<br>
 
-*強調*
-**強調**
-***強調*** 
+*強調*<br>
+**強調**<br>
+***強調*** <br>
 
-![ダミー画像](https://via.placeholder.com/150)
-![ダミー画像](https://via.placeholder.com/150 "ダミー画像")
+![ダミー画像](https://via.placeholder.com/150)<br>
+![ダミー画像](https://via.placeholder.com/150 "ダミー画像")<br>
 
-~~打ち消し~~
+~~打ち消し~~<br>
+<br>
+
+2246\[注釈1]<br>
+\[注釈1]:場合によって違いがあります。
+
+`$hoge = 1`<br>
+`.md`
+
+
+```html:sample
+   <div class="radioWave">
+      <p>迷いの中あてなく見上げた空彩る星たちが</p>
+      <p>嘘みたいに晴れた朝に繋がることを教えてくれた</p>
+   </div>
+```
+
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
 
