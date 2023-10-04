@@ -25,10 +25,17 @@
 ---
 - - -
 
-<http://qiita.com>
-http://qiita.com
+<http://qiita.com><br>
+http://qiita.com<br>
+[qiita](http://qiita.com)<br>
+[qiita](http://qiita.com "qiita")<br>
 
-[Qiita](http://qiita.com)
-[Qiita](http://qiita.com "Qiita")
+*強調*
+**強調**
+***強調*** 
 
- 
+![ダミー画像](https://via.placeholder.com/150)
+![ダミー画像](https://via.placeholder.com/150 "ダミー画像")
+
+~~打ち消し~~
+
