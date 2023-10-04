@@ -28,4 +28,7 @@
 <http://qiita.com>
 http://qiita.com
 
+[Qiita](http://qiita.com)
+[Qiita](http://qiita.com "Qiita")
+
  
